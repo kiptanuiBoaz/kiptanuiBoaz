@@ -1,12 +1,12 @@
-### Hi there 👋, my name is Boaz
+### Hello there 👋, my name is Boaz
 #### *Software developer(FrontEnd)*
-![*Software developer(FrontEnd)*](https://drive.google.com/file/d/1VlIteoUmXmdiPBYdztRazyd2H536-b4P/view?usp=sharing)
+![*Software developer(FrontEnd)*](https://kiptanuiboaz.netlify.app/)
 
 Software developer, I'm. a computer programmer who is skilled professional who codes, tests, debugs, and maintains the comprehensive instructions known as computer programs 
 passionate about Frontend web development
 2 + years experience in JavaScript and React js, Node js frameworks.
 
-Skills: NEXT JS / REACT / JS / HTML / CSS/TAILWIND CSS /REDUX
+Skills: ES6 / REACT / JS / HTML / CSS/TAILWIND CSS /REDUX
 
 - 🔭 I’m currently working on https://sogyhotel.netlify.app 
 - 🌱 I’m currently learning flutter X Darts for cross platform front-end dev 
