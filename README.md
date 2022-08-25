@@ -1,6 +1,6 @@
 ### Hello there 👋, my name is Boaz
 #### *Software developer(FrontEnd)*
-![*Software developer(FrontEnd)*](https://github.com/kiptanuiBoaz/portfolio-image/blob/main/Capture.PNG)
+![*Software developer(FrontEnd)*]()
 
 Software developer, I'm. a computer programmer who is skilled professional who codes, tests, debugs, and maintains the comprehensive instructions known as computer programs 
 passionate about Frontend web development
