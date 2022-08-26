@@ -16,7 +16,7 @@ Skills: ES6 / REACT / JS / HTML / CSS/TAILWIND CSS /REDUX
 - 😄 Pronouns: Him/He 
 - ⚡ Fun fact: I love sleep 
 
-<figure><embed src="https://wakatime.com/share/@f2c36ba1-80ec-4050-ae81-1250011694a0/c077fef0-9231-4e43-b285-d7215d741fac.svg"></embed></figure>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kiptanuiBoaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kiptanui-boaz-466154217//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/boaz.serem.90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/CleverFreak254?t=v08t3Z4SPWnV6dpc29MIwA&s=09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/kiptanuiBoaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/kiptanuiBoaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://62e15d25f778594246a7493b--spontaneous-madeleine-8192f9.netlify.app/)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
