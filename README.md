@@ -8,6 +8,8 @@ passionate about Frontend web development
 
 Skills: ES6 / REACT / JS / HTML / CSS/TAILWIND CSS /REDUX
 
+<figure><embed src="https://wakatime.com/share/@f2c36ba1-80ec-4050-ae81-1250011694a0/adb28a6c-d250-415f-8862-dc9aa3c7f121.svg"></embed></figure>
+
 - 🔭 I’m currently working on https://sogyhotel.netlify.app 
 - 🌱 I’m currently learning flutter X Darts for cross platform front-end dev 
 - 👯 I’m looking to collaborate on Statically rendered Apps 
