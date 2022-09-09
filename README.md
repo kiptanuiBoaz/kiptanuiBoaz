@@ -1,33 +1,37 @@
-### Hello there 👋, my name is Boaz
-#### *Software developer(FrontEnd)*
-![*Software developer(FrontEnd)*](https://kiptanuiboaz.netlify.app/)
+<h1 align="center">Hi 👋, I'm Kiptanui Boaz</h1>
+<h3 align="center">Software developer, I'm. a computer programmer who is skilled professional who codes, tests, debugs, and maintains the comprehensive instructions known as computer programs passionate about Frontend web development 2 + years experience in JavaScript and React js, Node js frameworks.</h3>
 
-Software developer, I'm. a computer programmer who is skilled professional who codes, tests, debugs, and maintains the comprehensive instructions known as computer programs 
-passionate about Frontend web development
-2 + years experience in JavaScript and React js, Node js frameworks.
+- 🔭 I’m currently working on [Sogy POC](https://sogyhotel.netlify.app)
 
-Skills: ES6 / REACT / JS / HTML / CSS/TAILWIND CSS /REDUX
+- 🌱 I’m currently learning **learning web 3**
 
-<figure><embed src="https://wakatime.com/share/@f2c36ba1-80ec-4050-ae81-1250011694a0/adb28a6c-d250-415f-8862-dc9aa3c7f121.svg"></embed></figure>
+- 👯 I’m looking to collaborate on **collaborate in dApps**
 
-- 🔭 I’m currently working on https://sogyhotel.netlify.app 
-- 🌱 I’m currently learning flutter X Darts for cross platform front-end dev 
-- 👯 I’m looking to collaborate on Statically rendered Apps 
-- 🤔 I’m looking for help with everything(it aint easy😐) 
-- 📫 How to reach me: boaserem022@gmail.com 
-- 😄 Pronouns: Him/He 
-- ⚡ Fun fact: I love sleep 
-<figure><embed src="https://wakatime.com/share/@f2c36ba1-80ec-4050-ae81-1250011694a0/1789c5c2-3bf5-40f8-afe8-7854f78a8505.svg"></embed></figure>
+- 🤝 I’m looking for help with **I’m looking for help with everything(it aint easy😐)**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kiptanuiBoaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kiptanui-boaz-466154217//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/boaz.serem.90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/CleverFreak254?t=v08t3Z4SPWnV6dpc29MIwA&s=09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/kiptanuiBoaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/kiptanuiBoaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://62e15d25f778594246a7493b--spontaneous-madeleine-8192f9.netlify.app/)  
+- 👨‍💻 All of my projects are available at [https://kiptanuiboaz.netlify.app/](https://kiptanuiboaz.netlify.app/)
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+- 📝 I regularly write articles on [https://twitter.com/BoazoSerem](https://twitter.com/BoazoSerem)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiptanuiBoaz)](https://github.com/anuraghazra/github-readme-stats)
+- 💬 Ask me about **react,redux-tool kit**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kiptanuiBoaz&show_icons=true)  
+- 📫 How to reach me **boaserem022@gmail.com**
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kiptanuiBoaz)  
+- 📄 Know about my experiences [https://kiptanuiboaz.netlify.app/](https://kiptanuiboaz.netlify.app/)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kiptanuiBoaz)  
+- ⚡ Fun fact **I love sleep**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/kiptanuiboaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kiptanuiboaz" height="30" width="40" /></a>
+<a href="https://twitter.com/@boazoserem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@boazoserem" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/boaserem022@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="boaserem022@gmail.com" height="30" width="40" /></a>
+<a href="https://instagram.com/boazserem_6175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boazserem_6175" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiptanuiboaz&show_icons=true&locale=en&layout=compact" alt="kiptanuiboaz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiptanuiboaz&" alt="kiptanuiboaz" /></p>
