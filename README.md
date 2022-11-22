@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **boaserem022@gmail.com**
 
-- 📄 Know about my experiences [https://kiptanuiboaz.netlify.app/](https://kiptanuiboaz.netlify.app/)
+- 📄 Know about my experiences om my [portfolio](https://kiptanuiboaz.netlify.app/)
 
 - ⚡ Fun fact **I love sleep**
 
