@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiptanui Boaz</h1>
 <h3 align="center">Software developer, I'm. a computer programmer who is skilled professional who codes, tests, debugs, and maintains the comprehensive instructions known as computer programs passionate about Frontend web development 2 + years experience in JavaScript and React js, Node js frameworks.</h3>
 
-- 🔭 I’m currently working on [Sogy POC](https://sogyhotel.netlify.app)
+- 🔭 I’m currently working on [Sogy POC](https://sogy-poc.vercel.app/)
 
 - 🌱 I’m currently learning **learning web 3**
 
@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **I’m looking for help with everything(it aint easy😐)**
 
-- 👨‍💻 All of my projects are available at [https://kiptanuiboaz.netlify.app/](https://kiptanuiboaz.netlify.app/)
+- 👨‍💻 All of my projects are available  [here](https://kiptanuiboaz.netlify.app/)
 
-- 📝 I regularly write articles on [https://twitter.com/BoazoSerem](https://twitter.com/BoazoSerem)
+- 📝 Follow me on [twitter](https://twitter.com/k_boazo)
 
 - 💬 Ask me about **react,redux-tool kit**
 
