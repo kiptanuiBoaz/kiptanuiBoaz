@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/kiptanuiboaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kiptanuiboaz" height="30" width="40" ></a>
-<a href="https://twitter.com/@boazoserem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@boazoserem" height="30" width="40" /></a>
+<a href="https://twitter.com/@k_boazo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@boazoserem" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/boaserem022@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="boaserem022@gmail.com" height="30" width="40" /></a>
 <a href="https://instagram.com/boazserem_6175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boazserem_6175" height="30" width="40" /></a>
 </p>
