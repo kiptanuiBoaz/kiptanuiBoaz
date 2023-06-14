@@ -1,25 +1,23 @@
 <h1 align="center">Hi 👋, I'm Kiptanui Boaz</h1>
-<h3 align="center">Software developer, I'm. a computer programmer who is skilled professional who codes, tests, debugs, and maintains the comprehensive instructions known as computer programs passionate about Frontend web development 2 + years experience in JavaScript and React js, Node js frameworks.</h3>
+<h3 align="center">Software developer, skilled professional who codes, tests, debugs, and maintains the comprehensive instructions known as computer programs passionate about Frontend web development 2 + years experience in JavaScript and React js, Node js frameworks.</h3>
 
-- 🔭 I’m currently working on [Sogy POC](https://sogy-poc.vercel.app/)
+- 🔭 I’m currently working on [geekgazette](https://geekgazette.vercel.app)
 
-- 🌱 I’m currently learning **learning web 3**
+- 🌱 I’m currently learning **learning microservices**
 
-- 👯 I’m looking to collaborate on **collaborate in dApps**
-
-- 🤝 I’m looking for help with **I’m looking for help with everything(it aint easy😐)**
+- 👯 I’m looking to collaborate on **collaborate on anything javascript**
 
 - 👨‍💻 All of my projects are available  [here](https://kiptanuiboaz.netlify.app/)
 
 - 📝 Follow me on [twitter](https://twitter.com/k_boazo)
 
-- 💬 Ask me about **react,redux-tool kit**
+- 💬 Ask me about **react,nodeJS,RTK**
 
 - 📫 How to reach me **boaserem022@gmail.com**
 
 - 📄 Know about my experiences om my [portfolio](https://kiptanuiboaz.netlify.app/)
 
-- ⚡ Fun fact **I love sleep**
+- ⚡ Fun fact **I don'have a fun fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
