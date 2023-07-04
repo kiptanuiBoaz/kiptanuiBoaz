@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **collaborate on anything javascript**
 
-- 👨‍💻 All of my projects are available  [here](https://kiptanuiboaz.netlify.app/)
+- 👨‍💻 All of my projects are available  [here](https://boazkiptanui.vercel.app/)
 
 - 📝 Follow me on [twitter](https://twitter.com/k_boazo)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **boaserem022@gmail.com**
 
-- 📄 Know about my experiences om my [portfolio](https://kiptanuiboaz.netlify.app/)
+- 📄 Know about my experiences om my [portfolio](https://boazkiptanui.vercel.app/)
 
 - ⚡ Fun fact **I don'have a fun fact**
 
