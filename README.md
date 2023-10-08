@@ -11,7 +11,7 @@
 
 - 📝 Follow me on [twitter](https://twitter.com/k_boazo)
 
-- 💬 Ask me about **react,nodeJS,RTK**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **boaserem022@gmail.com**
 
