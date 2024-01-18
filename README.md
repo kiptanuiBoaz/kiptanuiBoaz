@@ -5,19 +5,14 @@
 
 - 🌱 I’m currently learning **learning microservices**
 
-- 👯 I’m looking to collaborate on **collaborate on anything javascript**
+- 👨‍💻 All of my projects are available  [here](https://boazkiptanui.site/)
 
-- 👨‍💻 All of my projects are available  [here](https://boazkiptanui.vercel.app/)
-
-- 📝 Follow me on [twitter](https://twitter.com/k_boazo)
-
-- 💬 Ask me about **JavaScript**
+- 📝 Follow me on [X](https://twitter.com/kiptanui_boazo)
 
 - 📫 How to reach me **boaserem022@gmail.com**
 
-- 📄 Know about my experiences om my [portfolio](https://boazkiptanui.vercel.app/)
+- 📄 Know about my experiences om my [portfolio](https://boazkiptanui.site/)
 
-- ⚡ Fun fact **I don'have a fun fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
